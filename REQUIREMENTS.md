@@ -9,4 +9,5 @@ Each component of this project should satisfy these basic requirements. Order do
 - Customizable
 - Accessible (eg WAI standards)
 - Using API (REST)
+- Moderations and user permissions
 - Do not duplicate other projects. Each one should do only one job.
