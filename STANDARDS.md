@@ -8,4 +8,6 @@
 - Manuals standards (how to write manuals and docs)
 - Software standards and recommendations
 - File types (OS filetypes)
+- Open Data
+- Linked Data
 
