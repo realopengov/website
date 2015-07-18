@@ -10,4 +10,5 @@
 - File types (OS filetypes)
 - Open Data
 - Linked Data
+- Data independent from software
 
